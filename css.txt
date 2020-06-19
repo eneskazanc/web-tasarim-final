@@ -451,7 +451,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
@@ -524,7 +524,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
@@ -599,7 +599,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
@@ -673,7 +673,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
@@ -750,7 +750,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
@@ -824,7 +824,7 @@ padding-left: 75px;
 box-sizing:border-box;
 width:540px;
 padding:85px;
-font-style:oblique
+font-style:oblique;
  
 
 }
